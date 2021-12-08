@@ -1,7 +1,6 @@
 # Image_Classification_CNN
-
-Image Claasification for CIFAR10 dataset--> CNN_Image_Classification_for_CIFAR10_Dataset.ipynb
-
-Image classification for smaller dataset:
-  A. Data Agumentation 
-  B. Use Pre-trained model with Fine tuning 
+  
+  A. computer_vision_basic.ipynb \
+  B. cnn_image_classification_for_cifar10_dataset.ipynb \
+  C. data_agumentation.ipynb \
+  D. pre_trained_cnn_image_classification_with_fine_tuning_for_small_dataset.ipynb (cats vs dogs image classification)
